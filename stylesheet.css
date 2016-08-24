@@ -1,0 +1,19 @@
+body {
+	background-color: gray;
+	text-align: center;
+}
+
+h1 {
+	color: lightgreen;
+}
+
+p {
+	color: white;
+	font-family: Tahoma
+	font-size: 1em;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+}
